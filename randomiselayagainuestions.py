@@ -1,7 +1,4 @@
-from random import random
-
-
-def list_shuffler(list_to_shuffle):
+def list_shuffler(list_to_shuffle, random=None):
     """
     Randomise the questions on replay.
     """
